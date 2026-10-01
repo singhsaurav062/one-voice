@@ -1,0 +1,8 @@
+{
+  "name": "once-voice",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Private, one-time voice messages",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=20" }
+}
